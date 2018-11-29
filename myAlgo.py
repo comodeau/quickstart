@@ -10,8 +10,8 @@ from src.follow_protocol import follow_protocol
 from src.unfollow_protocol import unfollow_protocol
 
 bot = InstaBot(
-    login="",
-    password="",
+    login='',
+    password='_',
     like_per_day=900,
     comments_per_day=200,
 	tag_list=['l:217631504', 'l:805198877', 'l:234973050', 'l:373987404', 'l:214526970', 'l:1022193652', 'l:370193368', 'l:468037926693284', 'l:35393075', 'l:15781077', 
